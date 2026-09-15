@@ -1,0 +1,5 @@
+{
+  "test": true,
+  "workflow": "LITE 10 nodes",
+  "model": "agnes-2.5-flash"
+}
